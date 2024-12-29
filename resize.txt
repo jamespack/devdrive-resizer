@@ -1,5 +1,5 @@
 select vdisk file="c:\tools\devdrives\dev.vhdx"
-detach
+detach vdisk
 expand vdisk maximum=151000
 attach vdisk
 exit
