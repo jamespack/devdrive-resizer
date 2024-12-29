@@ -6,3 +6,6 @@
 4. Extend the volume from Disk Management.
 
 
+![Terminal Command](https://github.com/jamespack/devdrive-resizer/blob/main/terminal.png)
+
+![Disk Management](https://github.com/jamespack/devdrive-resizer/blob/main/dm.png)
